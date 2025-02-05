@@ -1,1 +1,3 @@
 This is a new feature!
+Вторая строка в файле feature.txt в ветке main
+Дополнительная строка, характерная для main
