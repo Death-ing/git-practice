@@ -1,1 +1,3 @@
 Первая строка в файле feature.txt в ветке main
+Вторая строка в файле feature.txt в ветке conflict-branch
+Дополнительная строка, характерная для conflict-branch
