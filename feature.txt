@@ -1,1 +1,1 @@
-This is a new feature!
+Первая строка в файле feature.txt в ветке main
